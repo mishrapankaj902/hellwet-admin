@@ -36,7 +36,7 @@ Provides fast, reliable and extensible starter for the development of Angular pr
 In order to start the project use:
 
 ```bash
-$ git clone https://github.com/mpankaj86/hellwet-admin.git
+$ git clone https://github.com/mishrapankaj902/hellwet-admin.git
 $ cd hellwet-admin
 # install the project's dependencies
 $ npm install
